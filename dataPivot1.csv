@@ -1,0 +1,39 @@
+﻿Account,ANC-001|M4,ANC-002|M5,GENERAL,Unspecified,Total
+10010 - Checking,,-9583.73,,333218.1899999998,323634.45999999985
+10099 - Bill.com Money Out Clearing,,9583.73,,-8564.529999999999,1019.2000000000007
+11010 - Prepaid Insurance,,,1347.65,378.23,1725.88
+11030 - Prepaid Expenses,1787500,3300000,-5529.209999999999,-2465685.11,2616285.68
+20000 - Accounts Payable,-138779.05,-76985.39,-1410,905566.5300000013,688392.0900000012
+21010 - Accrued Expenses,,0,-759.9899999999907,-57865.53000000002,-58625.52000000001
+30000 - Retained Earnings,,,,0,0
+30200 - Capital Contribution - Deerfield Healthcare Innovation Fund LP,,,,-7337500,-7337500
+30300 - Capital Contribution - Deerfield Private Design Fund IV LP,,,,-7337500,-7337500
+31200 - Capital - Deerfield Healthcare Innovation Fund LP,,,,3603565.3200000003,3603565.3200000003
+31300 - Capital - Deerfield Private Design Fund IV LP,,,,3603565.3099999996,3603565.3099999996
+50010 - Salary Expense,,,0,,0
+50100 - Benefits Expenses,,,0,,0
+50120 - Insurance,,,4381.070000000001,-3044.04,1337.0300000000007
+50210 - Business Travel,,,447.44,0,447.44
+50250 - Conferences,,,,0,0
+50280 - Meals & Entertainment,,,127.96,,127.96
+50390 - Business Meals,,,0,0,0
+50510 - Consulting - G&A,,0,,0,0
+50520 - Accounting & Audit,,,6540.530000000002,0,6540.530000000002
+50530 - Tax Compliance,,,625,0,625
+50532 - State Tax,,,170,,170
+50535 - State Filing Fees,,,300,0,300
+50710 - Telecommunications,,,114.8,0,114.8
+50750 - Management Fees,,,106983.54000000001,,106983.54000000001
+50860 - Office - Other,,,99,15.88,114.88
+50870 - IT - General,,,12828.649999999998,,12828.649999999998
+50875 - IT - Other,,,9.094947017729282e-13,0,9.094947017729282e-13
+50890 - Website Development,,,0,0,0
+50930 - Bank Service Charges,,,0,,0
+60010 - Salary Expense,,,-1.4551915228366852e-11,0,-1.4551915228366852e-11
+60100 - Benefits Expenses,,,0,0,0
+60210 - R&D Costs,0,0,,0,0
+60500 - CRO Costs,1795245.6300000004,1843719.1400000001,,0,3638964.7700000005
+60520 - Consulting,,8775,,,8775
+60550 - Consulting Expense Reimbursement - R&D,,,,0,0
+60580 - Legal Fees,118867.18,,,,118867.18
+81035 - Miscellaneous Expense,,,30,,30

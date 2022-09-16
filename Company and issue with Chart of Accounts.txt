@@ -1,0 +1,27 @@
+Bluefield innovations
+1. salary expense vs salary expense RnD
+2. benefits expense vs benefits expense Rnd
+Deerfield BI
+1. R&D Costs vs R&D Cost
+Deerfield BB
+1. Corporate branding and public relations
+2. salary expense vs salary expense RnD
+3. benefits expense vs benefits expense Rnd
+Four Points
+1. Corporate branding and public relations
+Lab1636
+1. Corporate branding and public relations
+Lakeside
+1. Corporate branding and public relations
+2. salary expense vs salary expense RnD
+3. benefits expense vs benefits expense Rnd
+Pinnacle hill
+1. Corporate Branding & Public Relations
+2. Alliance Management Fees vs Management Fees
+3. Salary Expense vs Salary Expense (R&D)
+4. Software License - R&D vs Software Licenses - R&D
+Poseidon
+1. IT - General
+2. Salary Expense vs Salary Expense (R&D)
+3. benefits expense vs benefits expense Rnd
+4. Software License - R&D vs Software Licenses - R&D

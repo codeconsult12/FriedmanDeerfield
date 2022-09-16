@@ -1,0 +1,22 @@
+﻿Group,Account,January,February,March,April,May,June,July,Total
+G&A,50100 - Benefits Expenses,,0,,,,,,0
+G&A,50120 - Insurance,361.67,361.67,361.67,326.76,291.84,384.53999999999996,2053.08,4141.23
+G&A,50330 - Professional Dues & Fees,,,,,300,300,,600
+G&A,50350 - Recruiting - Search Fees,300,300,300,300,,,300,1500
+G&A,50360 - Recruiting - Other,0,0,0,0,,,,0
+G&A,50510 - Consulting - G&A,0,0,0,0,0,,,0
+G&A,50515 - Consulting Expense Reimbursement - G&A,,,,0,,,,0
+G&A,50520 - Accounting & Audit,1055.6,1866.8,1400,9172.64,1827.6800000000003,4082,5340.08,24744.800000000003
+G&A,50530 - Tax Compliance,,,,2475,,,,2475
+G&A,50535 - State Filing Fees,,-811.11,,,,300,,-511.11
+G&A,50570 - Legal Fees - Corporate,,10067,0,,122,,,10189
+G&A,"50830 - Grants, Donations, Honorarium",,9200,,,,,,9200
+G&A,50860 - Office - Other,,,15,,,,25,40
+G&A,50870 - IT - General,3700,,,,444.01,4662.15,15700.449999999993,24506.609999999993
+G&A,50900 - Software Licenses,,,,3280,,18376.13,18657.63,40313.76
+G&A,50930 - Bank Service Charges,,,,0,0,0,,0
+G&A,81035 - Miscellaneous Expense,,,,87.75,287.46,72,,447.21
+R&D,60100 - Benefits Expenses (R&D),,0,,,,,,0
+R&D,60500 - CRO Costs,,,,,,,100704.19,100704.19
+R&D,60520 - Consulting,82786.45,92229.61000000002,48383.8,113701.25,130160.5,97426.99999999999,515926.1499999999,1080614.7599999998
+R&D,60550 - Consulting Expense Reimbursement - R&D,1803.29,3349.5899999999997,,1879.3200000000002,,,,7032.199999999999
